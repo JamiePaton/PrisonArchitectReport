@@ -42,5 +42,13 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+# Python files
+*.pyc
+*.pyo
+
+# Logging files
+logs/
+*.log
+
 # pa files
 *.prison
